@@ -5,21 +5,21 @@ const CONFIG = {
     image: "/notion-avatar.png",
     role: "게임 개발자",
     bio: "재밌는 게임을 만듭니다",
-    email: "syjy8809@gmail.com",
+    //email: "syjy8809@gmail.com",
     linkedin: "seoyeong-lee-a4172732b",
     github: "SandyLee-00",
-    instagram: "",
+    //instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `morethan-log`,
+  //     href: "https://github.com/morethanmin/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "sandy-log",
+    description: "welcome to sandy-log!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
