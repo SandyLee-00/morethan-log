@@ -6,7 +6,7 @@ const CONFIG = {
     role: "게임 개발자",
     bio: "재밌는 게임을 만듭니다",
     email: "syjy8809@gmail.com",
-    linkedin: "SeoYeong Lee",
+    linkedin: "seoyeong-lee-a4172732b",
     github: "SandyLee-00",
     instagram: "",
   },
