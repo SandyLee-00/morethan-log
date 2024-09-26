@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "lee seoyeong",
+    name: "이서영",
     image: "/notion-avatar.png",
-    role: "game developer",
-    bio: "I develop everything using code.",
+    role: "게임 개발자",
+    bio: "재밌는 게임을 만듭니다",
     email: "syjy8809@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "SeoYeong Lee",
+    github: "SandyLee-00",
     instagram: "",
   },
   projects: [
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "morethan-log",
     description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
