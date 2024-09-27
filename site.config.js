@@ -2,13 +2,13 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "이서영",
-    image: "/notion-avatar.png",
+    image: "/notion-avatar-1.png",
     role: "게임 개발자",
     bio: "재밌는 게임을 만듭니다",
-    //email: "syjy8809@gmail.com",
+    email: "",
     linkedin: "seoyeong-lee-a4172732b",
     github: "SandyLee-00",
-    //instagram: "",
+    instagram: "",
   },
   projects: [
     {
